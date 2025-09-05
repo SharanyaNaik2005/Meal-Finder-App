@@ -23,3 +23,6 @@ meal-finder/
 │── script.js        # JavaScript logic
 └── README.md        # Documentation
 
+Output:
+
+![WhatsApp Image 2025-09-05 at 20 54 58_66ed0c35](https://github.com/user-attachments/assets/384b0c94-e227-4335-82da-0149ffe56f9a)
